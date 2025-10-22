@@ -1,0 +1,9 @@
+dash==2.14.2
+dash-bootstrap-components==1.5.0
+plotly==5.17.0
+pandas==2.1.4
+numpy==1.24.3
+yahooquery==2.3.6
+ta-lib==0.4.28
+python-dateutil==2.8.2
+requests==2.31.0
