@@ -4,8 +4,9 @@ plotly
 pandas
 numpy
 yahooquery
-ta-lib
+ta
 python-dateutil
-
+datetime
 requests
+
 
