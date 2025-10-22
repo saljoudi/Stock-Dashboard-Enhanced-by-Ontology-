@@ -1,4 +1,4 @@
-dash2
+dash
 dash-bootstrap-components
 plotly
 pandas
@@ -8,3 +8,4 @@ ta-lib
 python-dateutil
 
 requests
+
